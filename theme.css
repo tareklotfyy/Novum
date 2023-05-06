@@ -146,14 +146,14 @@
 :root {
   //Initialize theme variables
   --app-background: url("https://przemec.github.io/Novum/assets/images/app.png");
-  --main-color: #00EEFF;
-  --main-color-selected: #00EEFF;
-  --main-color-semitransparent: #00EEFF;
-  --main-color-semitransparent-selected: #00EEFF;
-  --accent-color: #85F0F8;
+  --main-color: #00eeff;
+  --main-color-selected: #00eeff;
+  --main-color-semitransparent: #00eeff;
+  --main-color-semitransparent-selected: #00eeff;
+  --accent-color: #85f0f8;
   --accent-color-semitransparent: #fca7a918;
-  --accent-saturated: #7AF7FD;
-  --accent-desaturated: #59BEC3;
+  --accent-saturated: #7af7fd;
+  --accent-desaturated: #59bec3;
   --button-text: #dddddd;
   --button-text-selected: #ffffff;
   --profile-background: url("https://przemec.github.io/Novum/assets/images/profile.png");
